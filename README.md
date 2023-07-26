@@ -1,1 +1,1 @@
-This repository contains my frontend Javascript projects
+Alx - frontend - Javascript
